@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/.github.io/latestKangarooms/static/js/main.3e0c3cd5.js",
+    "main.css": "/.github.io/latestKangarooms/static/css/main.93baceaf.css",
+    "main.js": "/.github.io/latestKangarooms/static/js/main.81a8a039.js",
     "index.html": "/.github.io/latestKangarooms/index.html",
-    "main.3e0c3cd5.js.map": "/.github.io/latestKangarooms/static/js/main.3e0c3cd5.js.map"
+    "main.93baceaf.css.map": "/.github.io/latestKangarooms/static/css/main.93baceaf.css.map",
+    "main.81a8a039.js.map": "/.github.io/latestKangarooms/static/js/main.81a8a039.js.map"
   },
   "entrypoints": [
-    "static/js/main.3e0c3cd5.js"
+    "static/css/main.93baceaf.css",
+    "static/js/main.81a8a039.js"
   ]
 }
