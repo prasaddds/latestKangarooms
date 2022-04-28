@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/.github.io/latestKangarooms/static/css/main.073c9b0a.css",
-    "main.js": "/.github.io/latestKangarooms/static/js/main.52fb3fcc.js",
-    "static/js/787.f587e8d5.chunk.js": "/.github.io/latestKangarooms/static/js/787.f587e8d5.chunk.js",
-    "static/media/logo.svg": "/.github.io/latestKangarooms/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/.github.io/latestKangarooms/static/js/main.3e0c3cd5.js",
     "index.html": "/.github.io/latestKangarooms/index.html",
-    "main.073c9b0a.css.map": "/.github.io/latestKangarooms/static/css/main.073c9b0a.css.map",
-    "main.52fb3fcc.js.map": "/.github.io/latestKangarooms/static/js/main.52fb3fcc.js.map",
-    "787.f587e8d5.chunk.js.map": "/.github.io/latestKangarooms/static/js/787.f587e8d5.chunk.js.map"
+    "main.3e0c3cd5.js.map": "/.github.io/latestKangarooms/static/js/main.3e0c3cd5.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.52fb3fcc.js"
+    "static/js/main.3e0c3cd5.js"
   ]
 }
