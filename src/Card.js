@@ -1,5 +1,4 @@
 import React from "react";
-import contacts from "./Contacts";
 function Card(props) {
   return (
 
@@ -9,7 +8,7 @@ function Card(props) {
       </a>
       <div class="card-body">
 
-        <h5 class="card-title">Single Bed @900/-</h5>
+        <h5 class="card-title">{props.name}</h5>
         <p class="card-text">
           <a target="_blank" href="swimmingpool.png"><img src={props.lpool} alt="kangarooms-Agartala" style={{ width: "20px", height: "20px" }} class="class5" /></a> {props.pool}<br />
           <a target="_blank" href="wifi.jpg"><img src={props.lwifi} alt="kangarooms-Agartala" style={{ width: "20px", height: "20px" }} class="class5" /></a>{props.wifi} <br />

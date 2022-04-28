@@ -1,10 +1,30 @@
 import React from "react";
 import Card from "./Card";
 import contacts from "./Contacts";
+function createCard(contact)
+{
+    return <Card key={contact.id} name={contact.name}  imgURL={contact.imgURL}
+    pool={contact.pool}
+    lpool={contact.lpool}
+    wifi={contact.wifi}
+    lwifi={contact.lwifi}
+    breakfast={contact.breakfast}
+    lbreakfast={contact.lbreakfast}
+    theme={contact.theme}
+    ltheme={contact.ltheme}
+    location={contact.location}
+    llocation={contact.llocation}
+    type={contact.type}
+    ltype={contact.ltype}
+    available={contact.available}
+    lavailable={contact.lavailable}
+    booked={contact.booked}
+   lbooked={contact.lbooked}/>
+}
 function App() {
  return (
  <div>
-<Card
+{/* <Card
  name={contacts[0].name}
  imgURL={contacts[0].imgURL}
  pool={contacts[0].pool}
@@ -63,7 +83,8 @@ lbooked={contacts[1].lbooked}
  lavailable={contacts[2].lavailable}
  booked={contacts[2].booked}
 lbooked={contacts[2].lbooked}
- />
+ /> */}
+ {contacts.map(createCard)}
  </div>
  );
 }
