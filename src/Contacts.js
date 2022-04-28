@@ -32,7 +32,7 @@ const contacts = [
       breakfast: "Yes",
       lbreakfast: "https://cdn3.vectorstock.com/i/1000x1000/62/62/breakfast-symbol-collection-design-vector-35626262.jpg",
       theme: "Purple",
-      ltheme: "https://i.pinimg.com/originals/22/7a/35/227a3583dd31ff8e51e6bf50efa00122.jpg",
+      ltheme: "hhttps://i.pinimg.com/originals/22/7a/35/227a3583dd31ff8e51e6bf50efa00122.jpg",
       location: "Tirupathi",
       llocation: "https://cdn5.vectorstock.com/i/1000x1000/35/84/location-symbol-map-geography-direction-vector-24273584.jpg",
       type: "Family",
