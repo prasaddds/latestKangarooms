@@ -1,11 +1,10 @@
 
 import React from 'react';
 import ReactDom from 'react-dom';
-import Amenities from './RoomComponent';
+import App from "./App";
 ReactDom.render(
     <div>
-    <Amenities/> <br/> <br/> <br/>
-    <Amenities/>
+    <App/>
     </div>,
  document.getElementById('root')
 );
